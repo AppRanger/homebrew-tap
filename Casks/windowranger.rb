@@ -2,8 +2,7 @@ cask "windowranger" do
   version "1.0.0"
   sha256 "387f50a42a542729f27efb6c473e771568bb0701e049e71d3c6210ff0215f604"
 
-  url "https://github.com/AppRanger/windowranger/releases/download/v#{version}/WindowRanger-#{version}.dmg",
-      verified: "github.com/AppRanger/windowranger/"
+  url "https://github.com/AppRanger/windowranger/releases/download/v#{version}/WindowRanger-#{version}.dmg"
   name "WindowRanger"
   desc "Native workspace and window manager"
   homepage "https://windowranger.com/"
