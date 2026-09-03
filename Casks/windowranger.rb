@@ -1,6 +1,6 @@
 cask "windowranger" do
-  version "1.0.5"
-  sha256 "ae165047f92925179638dbcd8d4441b892a993f544caa4539bd2fb04c4d8551e"
+  version "1.0.6"
+  sha256 "dab7b8fd8669f222d64c57760edd13f040fb1c36c4995e3c6f9eafc933c3d0d5"
 
   url "https://github.com/AppRanger/windowranger/releases/download/v#{version}/WindowRanger-#{version}.dmg"
   name "WindowRanger"
